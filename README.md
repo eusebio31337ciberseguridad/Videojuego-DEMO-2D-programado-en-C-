@@ -1,8 +1,13 @@
 Soy Eusebio, bienvenido a mi videojuego
 
++++ Videojuego DEMO 2D programado por Eusebio de Jesus Gutierrez Orozco, 
+    en lenguaje de programacion C++, 
+    proximamente la version completa del juego.
 Esto es solo un DEMO del juego, contiene solo 3 mapas ...
 
-![](https://github.com/eusebio31337ciberseguridad/Videojuego-DEMO-2D-programado-en-C-/blob/ae47ff9c9aa14b720a64d2e610267c3d96a0f42e/RPG.gif)====  EMPEZAR A JUGAR:
+![](https://github.com/eusebio31337ciberseguridad/Videojuego-DEMO-2D-programado-en-C-/blob/5b75cc475434a1b3f5b56e22a032a3a3cad99155/portadaRPG.jpg)
+
+====  EMPEZAR A JUGAR:
 
 No necesita instalacion, solamente doble click derecho sobre el archivo ejecutable "VideoGame3.exe"
 y el DEMO iniciara.
@@ -25,19 +30,8 @@ EN EL SEGUNDO Y TERCER MAPA:
 
 
 +++ Comentarios, sugerencias, bugs encontrados en el juego favor de reportarlos al siguiente e-mail:  	
-    softwarejob789@gmail.com
+    trabajocv44@gmail.com
 
-
-
-+++ Videojuego DEMO 2D programado por Eusebio de Jesus Gutierrez Orozco, 
-    en lenguaje de programacion C++, 
-    proximamente la version completa del juego.
-
-
-Web oficial :  http://www.gateproject.pe.hu/
-
-Canal en You Tube: https://www.youtube.com/channel/UCTdmYtIzu-fm3kYkO6QZMIQ/featured
 
 
 Noviembre 2016
-
