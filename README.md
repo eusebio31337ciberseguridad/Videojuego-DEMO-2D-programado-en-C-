@@ -2,8 +2,7 @@ Soy Eusebio, bienvenido a mi videojuego
 
 Esto es solo un DEMO del juego, contiene solo 3 mapas ...
 
-
-====  EMPEZAR A JUGAR:
+![](https://github.com/eusebio31337ciberseguridad/Videojuego-DEMO-2D-programado-en-C-/blob/ae47ff9c9aa14b720a64d2e610267c3d96a0f42e/RPG.gif)====  EMPEZAR A JUGAR:
 
 No necesita instalacion, solamente doble click derecho sobre el archivo ejecutable "VideoGame3.exe"
 y el DEMO iniciara.
@@ -41,3 +40,4 @@ Canal en You Tube: https://www.youtube.com/channel/UCTdmYtIzu-fm3kYkO6QZMIQ/feat
 
 
 Noviembre 2016
+
